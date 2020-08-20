@@ -1,3 +1,3 @@
-# Basic Javascript Projects
+# Javascript Projects
 
-Basic **JAVASCRIPT** projects for beginners
+**JAVASCRIPT** projects
