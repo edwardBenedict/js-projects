@@ -2,6 +2,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 20px;
+  background-color: aquamarine;
 }
 
 body {
@@ -17,7 +20,7 @@ body {
   width: 100%;
   font-size: 7rem;
   padding: 0.5rem;
-  background: rgb(41, 41, 56);
+  background: rgb(128, 139, 150);
   color: white;
   border: none;
 }
@@ -35,10 +38,10 @@ button {
   transition: all 2s ease;
 }
 button:hover {
-  background: blue;
+  background: rgb(40, 116, 166);
 }
 .btn-yellow {
-  background: rgb(245, 146, 62);
+  background: rgb(126, 176, 186);
   color: white;
 }
 .btn-grey {
@@ -50,8 +53,8 @@ button:hover {
   font-size: 4rem;
 }
 .btn-equal {
-  background: green;
+  background: wheat;
 }
 .btn-clear {
-  background: red;
+  background: lightcoral;
 }

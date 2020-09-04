@@ -1,0 +1,27 @@
+.row {
+  margin-top: 10%;
+  margin-left: 40%;
+}
+.header {
+  text-align: center;
+  margin-top: 5rem;
+  margin-left: 23%;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: wheat;
+  color: darkslategrey;
+  width: 50%;
+}
+.column {
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: wheat;
+  color: darkslategrey;
+  width: 25%;
+  min-width: 200px;
+  padding: 0.5rem;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}

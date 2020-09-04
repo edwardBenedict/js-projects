@@ -12,6 +12,10 @@ for (let i = 0; i < btns.length; i++) {
 equalBtn.addEventListener("click", function () {
   if (screen.value === "") {
     alert("input is empty");
+    /* I added line 16-17-18 for control "eval" */
+  } else if (/^[a-zA-Z]/.test(screen.value)) {
+    alert("Not valid.");
+    screen.value = "";
   } else {
     let value = eval(screen.value);
     screen.value = value;
