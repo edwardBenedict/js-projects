@@ -1,1 +1,3 @@
-#Basic Javascript Projects
+# Javascript Projects
+
+**JAVASCRIPT** projects
